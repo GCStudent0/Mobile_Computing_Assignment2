@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Mobile_Computing_Assignment2</string>
+    <string name="cinema_explorer">Cinema Explorer</string>
+    <string name="example_star_wars">Example: Star Wars</string>
+    <string name="tap_to_search">Tap to Search!</string>
+    <string name="image_of_movie_poster">Image of Movie Poster</string>
+    <string name="return_to_search">Return to Search</string>
+
+</resources>
